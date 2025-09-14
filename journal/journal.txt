@@ -1,1 +1,12 @@
-This is a test
+AI Usage Journal
+Adeshola Adeleke 
+Adeshola@umd.edu
+Section 0201
+
+Week 1 
+This week I used AI on the exercises in order to reiterate and remember certain python functions that I had forgotten how to use. Using this method provided me with adequate examples that helped me with the exercises. I used it on a few questions to debug and clarify that I was following the directions correctly when unclear. Here is my AI chat link: https://claude.ai/chat/15ba2f8a-596f-4d3f-a589-29b7284599b6
+
+I have yet to use AI on my team project due to us being so early into the process and it not being needed. 
+
+I used Claude.AI for the first time after my professor recommended it. I do agree that that Claude is so much better for code compared to ChatGPT. ChatGPT would drag out code and make many mistakes that wouldn't occur if using Claude from the start. I compared the two with the same question and preferred the explanation given by Claude much more. I believe I will continue to use this AI in the future rather than ChatGPT.
+
