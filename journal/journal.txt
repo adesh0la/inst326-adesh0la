@@ -10,3 +10,10 @@ I have yet to use AI on my team project due to us being so early into the proces
 
 I used Claude.AI for the first time after my professor recommended it. I do agree that that Claude is so much better for code compared to ChatGPT. ChatGPT would drag out code and make many mistakes that wouldn't occur if using Claude from the start. I compared the two with the same question and preferred the explanation given by Claude much more. I believe I will continue to use this AI in the future rather than ChatGPT.
 
+Week 2 
+
+This week I continued to use Claude.AI on the exercises in order to learn and remember how to use specific functions.
+
+Some examples are the pop and sort function. These can be extremely useful for our project when trying to remove and sort data alphabetically. 
+
+I think I am starting to prefer Claude.AI over ChatGPT due to the knowledge it has on programming and code. It is extremely useful and can be used to provide us with explanations. I think I will continue to use this on exercises and the project in the future. 
