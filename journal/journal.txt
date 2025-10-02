@@ -17,3 +17,11 @@ This week I continued to use Claude.AI on the exercises in order to learn and re
 Some examples are the pop and sort function. These can be extremely useful for our project when trying to remove and sort data alphabetically. 
 
 I think I am starting to prefer Claude.AI over ChatGPT due to the knowledge it has on programming and code. It is extremely useful and can be used to provide us with explanations. I think I will continue to use this on exercises and the project in the future. 
+
+week 3 
+
+This week the exercises took me significantly longer. The 30 exercises were a bit difficult and while I did use AI for problems where I had major issues, I tried to stay away from it.
+
+I also used AI on questions where I did not understand the debugging. AI helped explain the error and how I could fix it in order to make my code more efficient. 
+
+I am still using Claude.AI over ChatGPT because of how much more efficient it is when it comes to code and computing. 
