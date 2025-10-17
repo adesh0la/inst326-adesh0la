@@ -28,4 +28,11 @@ I am still using Claude.AI over ChatGPT because of how much more efficient it is
 
 week 4 
 This week I refrained as much as possible from using AI. I want to start learning how to actually do the code on my own so I only use Claude.AI for debugging and explanation of the direcitons. 
+
 I enjoyed working with classes and objects and I understand how they can be useful when it comes to storing information and retrieving said information. 
+
+week 5 
+This week I limited my use of AI on the week 5 exercise assignment.
+
+I used Claude AI and a little bit of ChatGPT in order to debug or understand specific functions and how they are used in the code 
+
