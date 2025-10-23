@@ -1,5 +1,5 @@
 AI Usage Journal
-Adeshola Adeleke 
+Adeshola Delete 
 Adeshola@umd.edu
 Section 0201
 
@@ -27,7 +27,7 @@ I also used AI on questions where I did not understand the debugging. AI helped 
 I am still using Claude.AI over ChatGPT because of how much more efficient it is when it comes to code and computing. 
 
 week 4 
-This week I refrained as much as possible from using AI. I want to start learning how to actually do the code on my own so I only use Claude.AI for debugging and explanation of the direcitons. 
+This week I refrained as much as possible from using AI. I want to start learning how to actually do the code on my own so I only use Claude.AI for debugging and explanation of the directions. 
 
 I enjoyed working with classes and objects and I understand how they can be useful when it comes to storing information and retrieving said information. 
 
