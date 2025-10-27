@@ -36,3 +36,7 @@ This week I limited my use of AI on the week 5 exercise assignment.
 
 I used Claude AI and a little bit of ChatGPT in order to debug or understand specific functions and how they are used in the code 
 
+week 6
+This week I used Claude in order to understand certain functions and how they are used. 
+
+I use AI in order to generate examples that will better increase my understanding of specific topics when it comes to oop. 
