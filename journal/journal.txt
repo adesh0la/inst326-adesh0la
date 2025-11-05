@@ -40,3 +40,10 @@ week 6
 This week I used Claude in order to understand certain functions and how they are used. 
 
 I use AI in order to generate examples that will better increase my understanding of specific topics when it comes to oop. 
+
+week 7 
+This week I increased my use of AI on the week 7 exercises
+
+This was in order to understand the concepts clearly and clear up my confusions. 
+
+this week consist of many if statements, which is something that is not new to me. Since I am familiar with them AI was not really needed to understand what they do. 
