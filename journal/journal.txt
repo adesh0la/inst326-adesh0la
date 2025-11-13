@@ -47,3 +47,8 @@ This week I increased my use of AI on the week 7 exercises
 This was in order to understand the concepts clearly and clear up my confusions. 
 
 this week consist of many if statements, which is something that is not new to me. Since I am familiar with them AI was not really needed to understand what they do. 
+
+week 8 
+This week I continued to use Claude on the weekly exercises 
+
+Claude was able to explain several concepts and show me how to implement them into code 
