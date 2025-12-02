@@ -60,4 +60,6 @@ I started off with gemini, but quickly gave up due to receiving many errors and 
 
 Claude would often over complicate the answers and make them 200 lines long 
 
-ChatGPT was the most useful because I was able to simplify the code and also receive my results in a fraction of the time compared to the other models. 
+ChatGPT was the most useful because I was able to simplify the code and also receive my results in a fraction of the time compared to the other models
+
+I may consider returning to Chat for future work 
