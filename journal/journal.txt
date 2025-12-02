@@ -52,3 +52,12 @@ week 8
 This week I continued to use Claude on the weekly exercises 
 
 Claude was able to explain several concepts and show me how to implement them into code 
+
+week 9 
+This week I used three different AI models to see which ones would produce the most effective work 
+
+I started off with gemini, but quickly gave up due to receiving many errors and the AI not understanding the directions 
+
+Claude would often over complicate the answers and make them 200 lines long 
+
+ChatGPT was the most useful because I was able to simplify the code and also receive my results in a fraction of the time compared to the other models. 
