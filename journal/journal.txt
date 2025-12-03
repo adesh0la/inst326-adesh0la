@@ -63,3 +63,8 @@ Claude would often over complicate the answers and make them 200 lines long
 ChatGPT was the most useful because I was able to simplify the code and also receive my results in a fraction of the time compared to the other models
 
 I may consider returning to Chat for future work 
+
+week 10
+This week i continued to use ChatGPT because the other two AI models were not so useful on the last assignment 
+
+Chat gave me no issues besides a few errors on some questions 
