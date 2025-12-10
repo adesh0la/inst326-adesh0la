@@ -68,3 +68,10 @@ week 10
 This week i continued to use ChatGPT because the other two AI models were not so useful on the last assignment 
 
 Chat gave me no issues besides a few errors on some questions 
+
+week 12 
+Throughout this semester I have worked with several different AI clients 
+
+After testing and doing different tasks with them all, I have decided that Claude is the one I will continue using in the future 
+
+Claude is extremely intelligent when it comes to being able to understand code and fix errors 
