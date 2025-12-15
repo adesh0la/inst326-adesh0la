@@ -75,3 +75,10 @@ Throughout this semester I have worked with several different AI clients
 After testing and doing different tasks with them all, I have decided that Claude is the one I will continue using in the future 
 
 Claude is extremely intelligent when it comes to being able to understand code and fix errors 
+
+week 13 
+As the semester concludes, I have learned a lot about AI. I have started checking the AI ranking weekly in order to understand which model is performing the best. 
+
+I used AI in order to wrap up my project 4 assignment and it came out with no issues. 
+
+Currently the best AI model for speed is the newest ChatGPT 
